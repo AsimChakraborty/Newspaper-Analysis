@@ -1,0 +1,6 @@
+google-generativeai
+pandas
+streamlit
+python-dotenv
+beautifulsoup4
+lxml
